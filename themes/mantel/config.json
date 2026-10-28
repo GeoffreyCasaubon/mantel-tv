@@ -1,0 +1,12 @@
+{
+  "background_color": "#000000",
+  "dock_band": false,
+  "glass_style": "rim",
+  "dock_title": true,
+  "ambient_glow": false,
+  "app_glow": false,
+  "icon_only_buttons": true,
+  "icon_only_inputs": true,
+  "wallpaper": false,
+  "focus_overshoot": false
+}
